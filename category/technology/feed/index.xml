@@ -12,7 +12,7 @@
 	<atom:link href="/category/technology/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Sun, 29 Mar 2020 15:25:07 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Mar 2020 16:35:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,8 +37,10 @@
 		<category><![CDATA[Technology]]></category>
 
 		<guid isPermaLink="false">http://demo.acmethemes.com/infinite-photography/?p=151</guid>
-				<description><![CDATA[]]></description>
-								<content:encoded><![CDATA[]]></content:encoded>
+				<description><![CDATA[Mariz is truly a pure-hearted and honest person. She freely expresses herself. She hold no grudges against others. Every goodwill she commits is a true expression of her kindness.]]></description>
+								<content:encoded><![CDATA[
+<p>Mariz is truly a pure-hearted and honest person. She freely expresses herself. She hold no grudges against others. Every goodwill she commits is a true expression of her kindness.</p>
+]]></content:encoded>
 							<wfw:commentRss>/2016/04/19/my-camera/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
