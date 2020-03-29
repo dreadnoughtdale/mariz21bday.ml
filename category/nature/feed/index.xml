@@ -12,7 +12,7 @@
 	<atom:link href="/category/nature/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Sun, 29 Mar 2020 15:31:48 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Mar 2020 16:30:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,8 +33,10 @@
 		<category><![CDATA[Nature]]></category>
 
 		<guid isPermaLink="false">http://demo.acmethemes.com/infinite-photography/?p=153</guid>
-				<description><![CDATA[]]></description>
-								<content:encoded><![CDATA[]]></content:encoded>
+				<description><![CDATA[Mariz is a true servant of God. Her life mission is to spread to everyone the love of God. She brings hope to every person in need of it. She gives meaning to every struggle. She never fails in glorifying and thanking Him for the blessings she receives. She helps every person she recognizes to know Jesus by heart.]]></description>
+								<content:encoded><![CDATA[
+<p>Mariz is a true servant of God. Her life mission is to spread to everyone the love of God. She brings hope to every person in need of it. She gives meaning to every struggle. She never fails in glorifying and thanking Him for the blessings she receives. She helps every person she recognizes to know Jesus by heart.</p>
+]]></content:encoded>
 							<wfw:commentRss>/2016/04/19/gods-princess/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
